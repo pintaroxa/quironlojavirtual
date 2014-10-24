@@ -10,7 +10,7 @@ namespace Quiron.LojaVirtual.Dominio.Entidades
     //criando os metados da categorias de produtos.
      public class Produto
     {
-         public int ProdutoId { get; set; }
+         public int Id { get; set; }
 
          public string Nome { get; set; }
 
